@@ -68,7 +68,7 @@ For the benefit of users, especially beginners, we provide a video showcasing th
 
 
 
-![Alt text](https://github.com/Mohammed20037/weather_prediction/assets/113844625/e2d6e926-054a-42be-b935-ad0801f789aa)
+https://github.com/Mohammed20037/weather_prediction/assets/113844625/e2d6e926-054a-42be-b935-ad0801f789aa
 
 
 
